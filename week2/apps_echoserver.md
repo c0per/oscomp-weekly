@@ -5,7 +5,7 @@
 
 # RUN
 
-**You might need to change the ip address (`LOCAL_TP`) in `apps/net/echoserver/src/main.rs`.**
+**You might need to change the ip address (`LOCAL_IP`) in `apps/net/echoserver/src/main.rs`.**
 
 The following example changes it to `127.0.0.1`.
 
